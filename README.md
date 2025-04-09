@@ -1,4 +1,5 @@
 E-commerce Project on Sales Distribution
+
 The following topics are analyzed and Visualization has been created by python module. The sales data in csv format is uploaded here.
 1.	Sales Distribution
 2.	Yearly and Monthly Revenues
