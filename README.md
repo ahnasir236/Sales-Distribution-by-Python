@@ -1,5 +1,7 @@
 E-commerce Project on Sales Distribution
 
+This e-commerce project using Python aims to provide insights into (a) the sales performance of different companies in the four territories, namely, Asia–Pacific (APAC), Europe, the Middle East and Africa (EMEA), Japan and North America over the past three years (2003, 2004 and 2005), (b) which was the most sold products together, (c) in which month the sales were maximum, (d) which city is the hotspot and many more. By analyzing various aspects of the sales data, we seek to identify the trends, make data-driven recommendations, and gain a deeper understanding of the companies’ performance.
+
 The following topics are analyzed and Visualization has been created by python module. The sales data in csv format is uploaded here.
 1.	Sales Distribution
 2.	Yearly and Monthly Revenues
